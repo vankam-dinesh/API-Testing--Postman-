@@ -7,7 +7,7 @@ A collection is a repository/folder in which we can save all our requests.<br>
 #### How to create Collection &amp; Request<br>                                                
 - Step 1: After opening your postman click the collection from the left sidebar.<br>
 - Step 2: You will see + button click on this button and set an name you want<br>
-- Step 3: Creating collection you add a request in collection repository<br>
+- Step 3: Creating collection you add a request in collection repository<br>                                                          
 - Step 4: Click 3dot(…)  on collection you create then choose add request from dropdown<br>
 - Step 5: Set a name of requset  then choose a method from dropdown and given your link<br>
 - Step 6: Once you have a complete request, click on the “Send button” and see the response code. A 200 OK code stands for successful operation. In the image below you can see that we have successfully hit the URL.<br>
