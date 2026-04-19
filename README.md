@@ -10,7 +10,7 @@ A collection is a repository/folder in which we can save all our requests.<br>
 - Step 3: Creating collection you add a request in collection repository<br>                                                          
 - Step 4: Click 3dot(…)  on collection you create then choose add request from dropdown<br>
 - Step 5: Set a name of requset  then choose a method from dropdown and given your link<br>
-- Step 6: Once you have a complete request, click on the “Send button” and see the response code. A 200 OK code stands for successful operation. In the image below you can see that we have successfully hit the URL.<br>
+- Step 6: Once you have a complete request, click on the “Send button” and see the response code. A 200 OK code stands for successful operation. In the image below you can see that we have successfully hit the URL.<br>                                
 #### Environment<br>
 An environment is a set of variables you can use in your Postman requests. You can use environments to group related sets of values together and manage access to shared Postman data if you are working as part of a team.<br>
 #### How to create Environment<br>
