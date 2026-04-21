@@ -6,7 +6,7 @@ A request is a combination of a complete URL(which includes all parameters or ke
 A collection is a repository/folder in which we can save all our requests.<br>
 #### How to create Collection &amp; Request<br>                                                
 - Step 1: After opening your postman click the collection from the left sidebar.<br>
-- Step 2: You will see + button click on this button and set an name you want<br>
+- Step 2: You will see + button click on this button and set an name you want<br>                                                          
 - Step 3: Creating collection you add a request in collection repository<br>                                                          
 - Step 4: Click 3dot(…)  on collection you create then choose add request from dropdown<br>
 - Step 5: Set a name of requset  then choose a method from dropdown and given your link<br>
